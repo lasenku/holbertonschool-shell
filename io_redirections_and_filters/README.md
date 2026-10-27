@@ -22,3 +22,4 @@ This project contains Bash scripts that demonstrate shell commands, input/output
 - `15-countthatword`: Counts lines containing `bin` in `/etc/passwd`.
 - `16-whatsnext`: Displays lines containing `root` and the three following lines from `/etc/passwd`.
 - `17-hidethisword`: Displays lines from `/etc/passwd` that do not contain `bin`.
+- `18-letteronly`: Displays lines from `/etc/ssh/sshd_config` that start with an uppercase or lowercase English letter.
