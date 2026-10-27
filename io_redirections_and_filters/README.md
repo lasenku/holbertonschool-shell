@@ -25,3 +25,4 @@ This project contains Bash scripts that demonstrate shell commands, input/output
 - `18-letteronly`: Displays lines from `/etc/ssh/sshd_config` that start with an uppercase or lowercase English letter.
 - `19-AZ`: Replaces every `A` with `Z` and every `c` with `e` in the input.
 - `20-hiago`: Removes all lowercase `c` and uppercase `C` characters from input.
+- `21-reverse`: Reverses the characters in each input line.
