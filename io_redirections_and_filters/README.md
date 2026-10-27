@@ -26,3 +26,4 @@ This project contains Bash scripts that demonstrate shell commands, input/output
 - `19-AZ`: Replaces every `A` with `Z` and every `c` with `e` in the input.
 - `20-hiago`: Removes all lowercase `c` and uppercase `C` characters from input.
 - `21-reverse`: Reverses the characters in each input line.
+- `22-users_and_homes`: Displays usernames and home directories from `/etc/passwd`, sorted alphabetically by username.
