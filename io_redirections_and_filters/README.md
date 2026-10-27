@@ -15,3 +15,4 @@ This project contains Bash scripts that demonstrate shell commands, input/output
 - `8-cwd_state`: Saves the output of `ls -la` to `ls_cwd_content`, overwriting it if it exists.
 - `9-duplicate_last_line`: Duplicates the last line of `iacta`.
 - `10-no_more_js`: Deletes regular `.js` files in the current directory and its subdirectories.
+- `11-directories`: Counts all directories and subdirectories, including hidden directories.
