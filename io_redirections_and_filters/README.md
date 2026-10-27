@@ -20,3 +20,4 @@ This project contains Bash scripts that demonstrate shell commands, input/output
 - `13-unique`: Prints words that appear exactly once, sorted alphabetically.
 - `14-findthatword`: Displays lines containing `root` from `/etc/passwd`.
 - `15-countthatword`: Counts lines containing `bin` in `/etc/passwd`.
+- `16-whatsnext`: Displays lines containing `root` and the three following lines from `/etc/passwd`.
