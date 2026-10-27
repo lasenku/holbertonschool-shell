@@ -4,5 +4,6 @@ This project contains Bash scripts that demonstrate shell commands, input/output
 
 ## Scripts
 
-- `0-hello_world`: Prints "Hello, World" followed by a new line
-- `1-confused_smiley`: Displays a confused smiley..
+- `0-hello_world`: Prints "Hello, World" followed by a new line.
+- `1-confused_smiley`: Displays a confused smiley.
+- `2-hellofile`: Displays the contents of `/etc/passwd`.
