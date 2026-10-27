@@ -12,3 +12,4 @@ This project contains Bash scripts that demonstrate shell commands, input/output
 - `5-firstlines`: Displays the first 10 lines of `/etc/passwd`.
 - `6-third_line`: Displays the third line of the file `iacta`.
 - `7-file`: Creates a file with a special name containing `Best School` followed by a new line.
+- `8-cwd_state`: Saves the output of `ls -la` to `ls_cwd_content`, overwriting it if it exists.
