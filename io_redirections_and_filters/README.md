@@ -18,3 +18,4 @@ This project contains Bash scripts that demonstrate shell commands, input/output
 - `11-directories`: Counts all directories and subdirectories, including hidden directories.
 - `12-newest_files`: Displays the 10 newest entries in the current directory, newest first.
 - `13-unique`: Prints words that appear exactly once, sorted alphabetically.
+- `14-findthatword`: Displays lines containing `root` from `/etc/passwd`.
