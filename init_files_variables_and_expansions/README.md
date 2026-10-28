@@ -6,3 +6,4 @@
 - 4-global_variables: lists all environment variables.
 - 5-local_variables: lists local variables, environment variables, and functions.
 - 6-create_local_variable: creates a local variable named BEST with the value School.
+- 7-create_global_variable: creates an environment variable named BEST with the value School.
