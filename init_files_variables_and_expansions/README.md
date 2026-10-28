@@ -2,3 +2,4 @@
 - `1-hello_you`: Prints hello followed by the current Linux username.
 - `2-path`: Adds `/action` as the last directory in the PATH variable.
 - `3-paths`: Counts the number of directories in the PATH variable.
+- 3-paths: counts the number of directories in the PATH.
