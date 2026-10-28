@@ -11,3 +11,4 @@
 - 9-divide_and_rule: divides POWER by DIVIDE.
 - 10-love_exponent_breath: raises BREATH to the power of LOVE.
 - 11-binary_to_decimal: converts a binary number to decimal.
+- 12-combinations: prints all two-letter combinations except oo.
