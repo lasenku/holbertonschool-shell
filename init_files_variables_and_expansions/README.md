@@ -9,3 +9,4 @@
 - 7-create_global_variable: creates an environment variable named BEST with the value School.
 - 8-true_knowledge: adds 128 to the value of TRUEKNOWLEDGE.
 - 9-divide_and_rule: divides POWER by DIVIDE.
+- 10-love_exponent_breath: raises BREATH to the power of LOVE.
